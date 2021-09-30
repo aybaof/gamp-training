@@ -91,6 +91,9 @@ THE SOFTWARE.
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
 @fortawesome/angular-fontawesome
 MIT
 MIT License
